@@ -1,0 +1,2 @@
+# Fantasy Premier League (FPL) Analysis Project
+This project utilizes data available through the FPL API to try and gain insight in how to be an elite FPL manager! This is a work-in-progress. So far, I've created a Jupyter notebook with functions for pulling in the standings for the top 1000 overall managers in FPL as well as datasets for week-by-week data for these same managers in addition to week-by-week data for players. My next goal is to analyze player and manager data to see which players produce good value and which are over-priced. Stay tuned!
